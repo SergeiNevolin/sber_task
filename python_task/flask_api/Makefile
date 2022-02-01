@@ -18,7 +18,7 @@ setup:
 
 	.\env\Scripts\activate
 	
-	pip install -r requirements.txt
+	pip install .
 
 	make run
 
